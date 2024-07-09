@@ -28,7 +28,7 @@ int main(){
 		cout<<"Nombre: "<<e[Ye].nombre<<endl;
 		cout<<"Sexo: "<<e[Ye].sexo<<endl;
 		cout<<"sueldo: "<< e[Ye].sueldo<<endl;
-	cout<<"El empleado con menor sueldo es: ";
+	cout<<"El empleado con menor sueldo es: "<<endl;
 		cout<<"Nombre: "<<e[Me].nombre<<endl;
 		cout<<"Sexo: "<<e[Me].sexo<<endl;
 		cout<<"sueldo: "<< e[Me].sueldo<<endl;
